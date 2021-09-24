@@ -103,7 +103,10 @@ dist
 # TernJS port file
 .tern-port
 
+# Vscode files
+.vscode
 # React app generated files
 build
+
 # Yarn
 yarn.lock
